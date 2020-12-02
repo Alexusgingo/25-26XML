@@ -1,0 +1,20 @@
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\bin\Debug\AppConfig.exe.config
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\bin\Debug\AppConfig.exe
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\bin\Debug\AppConfig.pdb
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.csprojAssemblyReference.cache
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.Form1.resources
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.Properties.Resources.resources
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.csproj.GenerateResource.cache
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.csproj.CoreCompileInputs.cache
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.exe
+A:\Учебная практика\25-26.12\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.pdb
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\bin\Debug\AppConfig.exe.config
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\bin\Debug\AppConfig.exe
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\bin\Debug\AppConfig.pdb
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.Form1.resources
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.exe
+C:\Users\Алексей\Desktop\Лабораторная работа 7\AppConfig\obj\Debug\AppConfig.pdb
